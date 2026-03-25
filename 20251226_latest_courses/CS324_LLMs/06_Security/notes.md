@@ -1,0 +1,29 @@
+# Reference: https://stanford-cs324.github.io/winter2022/lectures/security
+
+- HomeCalendarLecturesIntroductionCapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impactPaper reviewsPaper discussionsProjects
+- CalendarLecturesIntroductionCapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impactPaper reviewsPaper discussionsProjects
+- LecturesIntroductionCapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impactPaper reviewsPaper discussionsProjects
+- IntroductionCapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- CapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- Harms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- Harms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- DataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- SecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- LegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- ModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- TrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- ParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- Scaling lawsSelective architecturesAdaptationEnvironmental impact
+- Selective architecturesAdaptationEnvironmental impact
+- AdaptationEnvironmental impact
+- Environmental impact
+- Paper reviewsPaper discussionsProjects
+- Paper discussionsProjects
+- Projects
+- LecturesSecurity
+- Security
+This lecture was delivered via slides. A link is available on Canvas and pdfs are here
+
+## Further reading
+
+- Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramèr, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom B. Brown, D. Song, Ú. Erlingsson, Alina Oprea, Colin Raffel. USENIX Security Symposium 2020.

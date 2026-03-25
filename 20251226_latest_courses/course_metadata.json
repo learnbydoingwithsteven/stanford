@@ -1,0 +1,980 @@
+[
+  {
+    "id": "CS224N_NLP",
+    "title": "CS224N NLP",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4",
+    "lectures": [
+      {
+        "title": "Lecture 01 - Word Vectors",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture01-wordvecs1.pdf",
+        "notes_url": "https://web.stanford.edu/class/cs224n/readings/cs224n_winter2023_lecture1_notes_draft.pdf",
+        "local_dir": "Lecture_01_-_Word_Vectors",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture01-wordvecs1.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://web.stanford.edu/class/cs224n/readings/cs224n_winter2023_lecture1_notes_draft.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 02 - Word Vectors and Language Models",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture02-wordvecs2.pdf",
+        "notes_url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf",
+        "local_dir": "Lecture_02_-_Word_Vectors_and_Language_Models",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture02-wordvecs2.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 03 - Backprop and Neural Networks",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture03-neuralnets.pdf",
+        "notes_url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf",
+        "local_dir": "Lecture_03_-_Backprop_and_Neural_Networks",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture03-neuralnets.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 04 - Dependency Parsing",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture04-dep-parsing.pdf",
+        "notes_url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf",
+        "local_dir": "Lecture_04_-_Dependency_Parsing",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture04-dep-parsing.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 05 - RNNs and Language Models",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture05-rnnlm.pdf",
+        "notes_url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf",
+        "local_dir": "Lecture_05_-_RNNs_and_Language_Models",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture05-rnnlm.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 06 - Advanced RNNs",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture06-fancy-rnn.pdf",
+        "notes_url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf",
+        "local_dir": "Lecture_06_-_Advanced_RNNs",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture06-fancy-rnn.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 07 - Final Projects",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture07-final-project.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_07_-_Final_Projects",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture07-final-project.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 08 - Transformers",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture08-transformers.pdf",
+        "notes_url": "https://web.stanford.edu/class/cs224n/readings/cs224n-self-attention-transformers-2023_draft.pdf",
+        "local_dir": "Lecture_08_-_Transformers",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture08-transformers.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://web.stanford.edu/class/cs224n/readings/cs224n-self-attention-transformers-2023_draft.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 09 - Pretraining",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture09-pretraining.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_09_-_Pretraining",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture09-pretraining.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 10 - Post-training (RLHF)",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture10-instruction-tunining-rlhf.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_10_-_Post-training_(RLHF)",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture10-instruction-tunining-rlhf.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 11 - Efficient Adaptation",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture11-adapatation.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_11_-_Efficient_Adaptation",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture11-adapatation.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 12 - Evaluation",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture12-evaluation-final.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_12_-_Evaluation",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture12-evaluation-final.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 13 - Question Answering",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture13-QA.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_13_-_Question_Answering",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-lecture13-QA.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture Guest - Interpretability",
+        "slides_url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-guest-lecture-interpretability.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_Guest_-_Interpretability",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224n/slides_w25/cs224n-2025-guest-lecture-interpretability.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CS231n_Vision",
+    "title": "CS231n Vision",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv",
+    "lectures": [
+      {
+        "title": "Lecture 01 - Introduction",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_1_part_1.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_01_-_Introduction",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_1_part_1.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 02 - Linear Classification",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_2.pdf",
+        "notes_url": "https://cs231n.github.io/linear-classify/",
+        "local_dir": "Lecture_02_-_Linear_Classification",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_2.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://cs231n.github.io/linear-classify/"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 03 - Optimization",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_3.pdf",
+        "notes_url": "https://cs231n.github.io/optimization-1/",
+        "local_dir": "Lecture_03_-_Optimization",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_3.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://cs231n.github.io/optimization-1/"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 04 - Backpropagation",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_4.pdf",
+        "notes_url": "http://cs231n.github.io/optimization-2",
+        "local_dir": "Lecture_04_-_Backpropagation",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_4.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "http://cs231n.github.io/optimization-2"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 05 - CNNs",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_5.pdf",
+        "notes_url": "http://cs231n.github.io/convolutional-networks",
+        "local_dir": "Lecture_05_-_CNNs",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_5.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "http://cs231n.github.io/convolutional-networks"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 06 - CNN Architectures",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_6.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_06_-_CNN_Architectures",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_6.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 07 - RNNs",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_7.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_07_-_RNNs",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_7.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 08 - Attention and Transformers",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_8.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_08_-_Attention_and_Transformers",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_8.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 09 - Object Detection",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_9.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_09_-_Object_Detection",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_9.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 10 - Video Understanding",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_10.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_10_-_Video_Understanding",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_10.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 11 - Distributed Training",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_11.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_11_-_Distributed_Training",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_11.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 12 - Self-supervised Learning",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_12.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_12_-_Self-supervised_Learning",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_12.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 13 - Generative Models 1",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_13.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_13_-_Generative_Models_1",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_13.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 14 - Generative Models 2",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_14.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_14_-_Generative_Models_2",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_14.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 15 - 3D Vision",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_15.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_15_-_3D_Vision",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_15.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 16 - Vision and Language",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_16.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_16_-_Vision_and_Language",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_16.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 17 - Robot Learning",
+        "slides_url": "https://cs231n.stanford.edu/slides/2025/lecture_17.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_17_-_Robot_Learning",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://cs231n.stanford.edu/slides/2025/lecture_17.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CS229_MachineLearning",
+    "title": "CS229 MachineLearning",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
+    "lectures": [
+      {
+        "title": "Lecture 01 - Introduction",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/main_notes.pdf",
+        "local_dir": "Lecture_01_-_Introduction",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/main_notes.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 02 - Supervised Learning",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf",
+        "local_dir": "Lecture_02_-_Supervised_Learning",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 03 - GDA and Naive Bayes",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes2.pdf",
+        "local_dir": "Lecture_03_-_GDA_and_Naive_Bayes",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes2.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 04 - SVMs",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes3.pdf",
+        "local_dir": "Lecture_04_-_SVMs",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes3.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 05 - Regularization",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes4.pdf",
+        "local_dir": "Lecture_05_-_Regularization",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes4.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 06 - Error Analysis",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes5.pdf",
+        "local_dir": "Lecture_06_-_Error_Analysis",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes5.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 07 - Deep Learning Intro",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes-deep-learning.pdf",
+        "local_dir": "Lecture_07_-_Deep_Learning_Intro",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes-deep-learning.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 08 - EM Algorithm",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes8.pdf",
+        "local_dir": "Lecture_08_-_EM_Algorithm",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes8.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 09 - PCA",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes10.pdf",
+        "local_dir": "Lecture_09_-_PCA",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes10.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 10 - ICA",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes11.pdf",
+        "local_dir": "Lecture_10_-_ICA",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes11.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 11 - RL",
+        "slides_url": null,
+        "notes_url": "http://cs229.stanford.edu/notes2021fall/cs229-notes12.pdf",
+        "local_dir": "Lecture_11_-_RL",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "http://cs229.stanford.edu/notes2021fall/cs229-notes12.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CS224W_Graphs",
+    "title": "CS224W Graphs",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn",
+    "lectures": [
+      {
+        "title": "Lecture 01 - Introduction",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/01-intro.pdf",
+        "notes_url": "https://archives.leni.sh/stanford/CS224w.pdf",
+        "local_dir": "Lecture_01_-_Introduction",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/01-intro.pdf"
+          },
+          {
+            "type": "notes",
+            "url": "https://archives.leni.sh/stanford/CS224w.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 02 - Node Embeddings",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/02-nodeemb.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_02_-_Node_Embeddings",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/02-nodeemb.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 03 - GNNs",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/03-GNN1.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_03_-_GNNs",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/03-GNN1.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 04 - GNN Perspective",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/04-GNN2.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_04_-_GNN_Perspective",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/04-GNN2.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 05 - GNN Training",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/05-GNN3.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_05_-_GNN_Training",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/05-GNN3.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 06 - Theory of GNNs",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/06-theory.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_06_-_Theory_of_GNNs",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/06-theory.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 07 - Graph Encoders",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/07-theory2.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_07_-_Graph_Encoders",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/07-theory2.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 08 - Graph Transformers",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/08-graph-transformer1.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_08_-_Graph_Transformers",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/08-graph-transformer1.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 09 - Heterogenous Graphs",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/09-hetero.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_09_-_Heterogenous_Graphs",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/09-hetero.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 10 - Knowledge Graphs",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/10-kg.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_10_-_Knowledge_Graphs",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/10-kg.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 11 - RecSys",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/11-recsys.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_11_-_RecSys",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/11-recsys.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 12 - Relational DL",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/12-RDL.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_12_-_Relational_DL",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/12-RDL.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 13 - Advanced RDL",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/13-Advanced_topics_RDL.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_13_-_Advanced_RDL",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/13-Advanced_topics_RDL.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 14 - Advanced GNNs",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/14-advanced_gnns.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_14_-_Advanced_GNNs",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/14-advanced_gnns.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 15 - KG Foundation Models",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/15-KGFoundationModels.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_15_-_KG_Foundation_Models",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/15-KGFoundationModels.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 16 - LLM + GNN",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/Lecture16.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_16_-_LLM_+_GNN",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/Lecture16.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 17 - Agents",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/2025-cs224w-lecture.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_17_-_Agents",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/2025-cs224w-lecture.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Lecture 18 - Deep Gen for Graphs",
+        "slides_url": "https://web.stanford.edu/class/cs224w/slides/18-deep-generation.pdf",
+        "notes_url": null,
+        "local_dir": "Lecture_18_-_Deep_Gen_for_Graphs",
+        "materials": [
+          {
+            "type": "slides",
+            "url": "https://web.stanford.edu/class/cs224w/slides/18-deep-generation.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CS324_LLMs",
+    "title": "CS324 LLMs",
+    "playlist_url": "https://stanford-cs324.github.io/winter2022/",
+    "lectures": [
+      {
+        "title": "01 Introduction",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/introduction",
+        "local_dir": "01_Introduction",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/introduction"
+          }
+        ]
+      },
+      {
+        "title": "02 Capabilities",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/capabilities",
+        "local_dir": "02_Capabilities",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/capabilities"
+          }
+        ]
+      },
+      {
+        "title": "03 Harms I",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/harms-1",
+        "local_dir": "03_Harms_I",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/harms-1"
+          }
+        ]
+      },
+      {
+        "title": "04 Harms II",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/harms-2",
+        "local_dir": "04_Harms_II",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/harms-2"
+          }
+        ]
+      },
+      {
+        "title": "05 Data",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/data",
+        "local_dir": "05_Data",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/data"
+          }
+        ]
+      },
+      {
+        "title": "06 Security",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/security",
+        "local_dir": "06_Security",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/security"
+          }
+        ]
+      },
+      {
+        "title": "07 Legality",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/legality",
+        "local_dir": "07_Legality",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/legality"
+          }
+        ]
+      },
+      {
+        "title": "08 Modeling",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/modeling",
+        "local_dir": "08_Modeling",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/modeling"
+          }
+        ]
+      },
+      {
+        "title": "09 Training",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/training",
+        "local_dir": "09_Training",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/training"
+          }
+        ]
+      },
+      {
+        "title": "10 Parallelism",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/parallelism",
+        "local_dir": "10_Parallelism",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/parallelism"
+          }
+        ]
+      },
+      {
+        "title": "11 Scaling Laws",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/scaling-laws",
+        "local_dir": "11_Scaling_Laws",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/scaling-laws"
+          }
+        ]
+      },
+      {
+        "title": "12 Architectures",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/selective-architectures",
+        "local_dir": "12_Architectures",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/selective-architectures"
+          }
+        ]
+      },
+      {
+        "title": "13 Adaptation",
+        "slides_url": null,
+        "notes_url": "https://stanford-cs324.github.io/winter2022/lectures/adaptation",
+        "local_dir": "13_Adaptation",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://stanford-cs324.github.io/winter2022/lectures/adaptation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "CS25_Transformers",
+    "title": "CS25 Transformers",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM",
+    "lectures": [
+      {
+        "title": "Course Link",
+        "slides_url": null,
+        "notes_url": "https://web.stanford.edu/class/cs25/",
+        "local_dir": "Course_Link",
+        "materials": [
+          {
+            "type": "notes",
+            "url": "https://web.stanford.edu/class/cs25/"
+          }
+        ]
+      }
+    ]
+  }
+]

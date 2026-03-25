@@ -1,0 +1,29 @@
+# Reference: https://stanford-cs324.github.io/winter2022/lectures/scaling-laws
+
+- HomeCalendarLecturesIntroductionCapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impactPaper reviewsPaper discussionsProjects
+- CalendarLecturesIntroductionCapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impactPaper reviewsPaper discussionsProjects
+- LecturesIntroductionCapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impactPaper reviewsPaper discussionsProjects
+- IntroductionCapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- CapabilitiesHarms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- Harms IHarms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- Harms IIDataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- DataSecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- SecurityLegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- LegalityModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- ModelingTrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- TrainingParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- ParallelismScaling lawsSelective architecturesAdaptationEnvironmental impact
+- Scaling lawsSelective architecturesAdaptationEnvironmental impact
+- Selective architecturesAdaptationEnvironmental impact
+- AdaptationEnvironmental impact
+- Environmental impact
+- Paper reviewsPaper discussionsProjects
+- Paper discussionsProjects
+- Projects
+- LecturesScaling laws
+- Scaling laws
+This lecture was delivered via slides. Powerpoint slides at Canvas and PDFs are available here
+
+## Further reading
+
+- Scaling Laws for Neural Language Models. J. Kaplan, Sam McCandlish, T. Henighan, Tom B. Brown, Benjamin Chess, R. Child, Scott Gray, Alec Radford, Jeff Wu, Dario Amodei. 2020.
